@@ -1,0 +1,11 @@
+/.sculpin/
+/.idea/*
+/app
+/output_dev/
+s3.conf
+/source
+
+/sculpin.lock
+/sculpin.phar
+/sculpin.json
+/publish.sh
