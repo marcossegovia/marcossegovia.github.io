@@ -1,50 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://marcossegovia.github.io</loc>
-    <lastmod>2015-09-12</lastmod>
+    <loc>http://www.marcossegovia.com</loc>
+    <lastmod>2015-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2015/08/29/thoughts-about-this-year</loc>
+    <loc>http://www.marcossegovia.com/blog/2015/08/29/thoughts-about-this-year</loc>
     <lastmod>2015-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2015/04/22/dependency-inversion-principle</loc>
+    <loc>http://www.marcossegovia.com/blog/2015/04/22/dependency-inversion-principle</loc>
     <lastmod>2015-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2015/04/19/open-closed-principle</loc>
+    <loc>http://www.marcossegovia.com/blog/2015/04/19/open-closed-principle</loc>
     <lastmod>2015-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2015/01/25/rubikapp</loc>
+    <loc>http://www.marcossegovia.com/blog/2015/01/25/rubikapp</loc>
     <lastmod>2015-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2014/12/10/lean-startup</loc>
+    <loc>http://www.marcossegovia.com/blog/2014/12/10/lean-startup</loc>
     <lastmod>2014-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2014/09/29/ajax-calls</loc>
+    <loc>http://www.marcossegovia.com/blog/2014/09/29/ajax-calls</loc>
     <lastmod>2014-09-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
     <url>
-    <loc>http://marcossegovia.github.io/blog/2014/09/20/hello-world</loc>
+    <loc>http://www.marcossegovia.com/blog/2014/09/20/hello-world</loc>
     <lastmod>2014-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
+    <loc>http://www.marcossegovia.com/_posts/2015-09-12-solid-principles</loc>
+    <lastmod>2015-09-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

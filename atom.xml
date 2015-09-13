@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Software Development]]></title>
-    <link href="http://marcossegovia.github.io/atom.xml" rel="self"/>
-    <link href="http://marcossegovia.github.io/"/>
-    <updated>2015-09-12T11:48:24+00:00</updated>
-    <id>http://marcossegovia.github.io/</id>
+    <link href="http://www.marcossegovia.com/atom.xml" rel="self"/>
+    <link href="http://www.marcossegovia.com/"/>
+    <updated>2015-09-13T15:51:06+00:00</updated>
+    <id>http://www.marcossegovia.com/</id>
             <author>
             <name><![CDATA[Marcos Segovia]]></name>                    </author>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Thoughts about this year 2014-2015]]></title>
-            <link href="http://marcossegovia.github.io/blog/2015/08/29/thoughts-about-this-year"/>
+            <link href="http://www.marcossegovia.com/blog/2015/08/29/thoughts-about-this-year"/>
             <updated>2015-08-29T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2015/08/29/thoughts-about-this-year</id>
+            <id>http://www.marcossegovia.com/blog/2015/08/29/thoughts-about-this-year</id>
             <content type="html"><![CDATA[<p>In the next days It will be a year since I got into my first job as a software developer inside a team of several different members.
 Also, I had to manage to keep on with my degree in order not to lose my focus.
 But this year, lot of things came up and I'll say worth of them I could deal with.</p>
@@ -58,9 +58,9 @@ Know your company, know you values and get what suits you the best. Apply good p
         </entry>
             <entry>
             <title type="html"><![CDATA[Dependency Inversion Principle (DIP) and the Abstract Factory Pattern]]></title>
-            <link href="http://marcossegovia.github.io/blog/2015/04/22/dependency-inversion-principle"/>
+            <link href="http://www.marcossegovia.com/blog/2015/04/22/dependency-inversion-principle"/>
             <updated>2015-04-22T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2015/04/22/dependency-inversion-principle</id>
+            <id>http://www.marcossegovia.com/blog/2015/04/22/dependency-inversion-principle</id>
             <content type="html"><![CDATA[<p><strong>DIP</strong> or <strong>Dependency Inversion Principle</strong> stands as one of the most important mechanism of OOP.</p>
 
 <p>The principle says that <em>'only concrete classes or functions should depend from interfaces or abstract classes'</em>.
@@ -192,7 +192,7 @@ $banana-&gt;iTasteLike();
 
 <p>And of course, our output will be something like this:</p>
 
-<p><img class="img-thumbnail" src="http://marcossegovia.github.io/assets/images/2015-04-22/output.png" alt="output Abstract Factory" /></p>
+<p><img class="img-thumbnail" src="http://www.marcossegovia.com/assets/images/2015-04-22/output.png" alt="output Abstract Factory" /></p>
 
 <p><strong>Bibliography:</strong></p>
 
@@ -203,9 +203,9 @@ $banana-&gt;iTasteLike();
         </entry>
             <entry>
             <title type="html"><![CDATA[Open Closed Principle (OCP)]]></title>
-            <link href="http://marcossegovia.github.io/blog/2015/04/19/open-closed-principle"/>
+            <link href="http://www.marcossegovia.com/blog/2015/04/19/open-closed-principle"/>
             <updated>2015-04-19T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2015/04/19/open-closed-principle</id>
+            <id>http://www.marcossegovia.com/blog/2015/04/19/open-closed-principle</id>
             <content type="html"><![CDATA[<p>The <strong>OPC</strong> stands for <strong>Open Closed Principle</strong> and it basically says that either classes, modules or packages are opened for extension but closed for modification.
 In other words, you can obtain the functionalities but not modifying those internally. The package turns out immutable.
 This principle is high valuated in those area where changes become something common. This principles guarantees to deal with code in order to only add new code instead of changing the legacy one.</p>
@@ -289,16 +289,16 @@ Though we can overwrite methods we are doing it outside the parent base, OCP is 
         </entry>
             <entry>
             <title type="html"><![CDATA[Introducing RubbikApp]]></title>
-            <link href="http://marcossegovia.github.io/blog/2015/01/25/rubikapp"/>
+            <link href="http://www.marcossegovia.com/blog/2015/01/25/rubikapp"/>
             <updated>2015-01-25T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2015/01/25/rubikapp</id>
+            <id>http://www.marcossegovia.com/blog/2015/01/25/rubikapp</id>
             <content type="html"><![CDATA[<p>Don’t you ever happen to meet with friend and everyone being absorved with their mobile phone?</p>
 
 <p>Lately everybody seems to be inmerse in their own screens and we forget about essential things as having fun with with the reality in front of us, just lift your head up and look around.</p>
 
 <p>What about telling you is there a way to stay tuned not only with your smartphone, but with a Smart TV and your connected friends? This is basically RubbikApp.</p>
 
-<p><img class="img-thumbnail" src="http://marcossegovia.github.io/assets/images/2015-01-25/rubikapp_title.jpg" alt="Rubbikapp" /></p>
+<p><img class="img-thumbnail" src="http://www.marcossegovia.com/assets/images/2015-01-25/rubikapp_title.jpg" alt="Rubbikapp" /></p>
 
 <p>RubikApp is an adapted game from the classic table game Rummikub but for Smart TVs and Smartphones.</p>
 
@@ -309,7 +309,7 @@ Though we can overwrite methods we are doing it outside the parent base, OCP is 
 <p>The point on the game is to throw all the pieces from your hand into the table before anybody else. To achieve this, during your turn, you have to try to make Straight Flush within your hand and pieces on the table.
 The user can send 2 or more pieces, building Straight Flush or adding a single piece to complete Straight Flushes on the table.</p>
 
-<p><img class="img-thumbnail" src="http://marcossegovia.github.io/assets/images/2015-01-25/cards.jpg" alt="Rubbikapp" /></p>
+<p><img class="img-thumbnail" src="http://www.marcossegovia.com/assets/images/2015-01-25/cards.jpg" alt="Rubbikapp" /></p>
 
 <p>As you can see to operate into the game is really simple in order to master as soon as posible.
 But how exactely does it work? Let me show you a little step by step introduction.
@@ -317,7 +317,7 @@ First of all you have to start up you Smart TV application and also your mobile 
 
 <p>Synchronizing screens will display in order to make the connection between smartphone and TV app. As you may realize is all about entering the pincode shown on the TV to your phone App, and so each player who wants to play.</p>
 
-<p><img class="img-thumbnail" src="http://marcossegovia.github.io/assets/images/2015-01-25/preview-start.jpg" alt="Rubbikapp" /></p>
+<p><img class="img-thumbnail" src="http://www.marcossegovia.com/assets/images/2015-01-25/preview-start.jpg" alt="Rubbikapp" /></p>
 
 <p>Once all your devices are correctly connected, push your Enter button on your TV controller.
 As you can see, each player has their first 8 pieces in their own phones. Meanwhile a table board is shown on the TV with the first piece displayed to be able to start the game.
@@ -329,11 +329,11 @@ Each user has 3 different actions during the turn:</p>
 <li><p><strong>END TURN</strong>: In the case the user does not have or just do not see a good chance on selecting cards, you can make your turn end and automaticaly draw a card.</p></li>
 </ul>
 
-<p><img class="img-thumbnail" src="http://marcossegovia.github.io/assets/images/2015-01-25/mobile-rubikapp.jpg" alt="Rubbikapp" /></p>
+<p><img class="img-thumbnail" src="http://www.marcossegovia.com/assets/images/2015-01-25/mobile-rubikapp.jpg" alt="Rubbikapp" /></p>
 
 <p>Pieces are reorder automaticaly when players send the ones from their hands. Also you can see how the turn is being displayed as a square bordering the currently player.</p>
 
-<p><img class="img-thumbnail" src="http://marcossegovia.github.io/assets/images/2015-01-25/board-game.jpg" alt="Rubbikapp" /></p>
+<p><img class="img-thumbnail" src="http://www.marcossegovia.com/assets/images/2015-01-25/board-game.jpg" alt="Rubbikapp" /></p>
 
 <p>As mentioned before, the game ends when one of the players has no cards left on his hand. Being automaticaly the winner.</p>
 
@@ -350,9 +350,9 @@ Each user has 3 different actions during the turn:</p>
         </entry>
             <entry>
             <title type="html"><![CDATA[Lean Startup]]></title>
-            <link href="http://marcossegovia.github.io/blog/2014/12/10/lean-startup"/>
+            <link href="http://www.marcossegovia.com/blog/2014/12/10/lean-startup"/>
             <updated>2014-12-10T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2014/12/10/lean-startup</id>
+            <id>http://www.marcossegovia.com/blog/2014/12/10/lean-startup</id>
             <content type="html"><![CDATA[<p>It seems entrepreneur lifestyle always comes up with energy as times get worse to find a job. It is not by chance that we’re living an entrepreneur moment for any kind of people and company.</p>
 
 <p>As you try to go deeper, It’s not difficult to find out people thoughts and lots of guidelines about ‘How to make your ideas posible’ or ‘Start building’.</p>
@@ -378,9 +378,9 @@ This method makes and effort on collaboration between different departments and 
         </entry>
             <entry>
             <title type="html"><![CDATA[Ajax, dynamic data callback]]></title>
-            <link href="http://marcossegovia.github.io/blog/2014/09/29/ajax-calls"/>
+            <link href="http://www.marcossegovia.com/blog/2014/09/29/ajax-calls"/>
             <updated>2014-09-29T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2014/09/29/ajax-calls</id>
+            <id>http://www.marcossegovia.com/blog/2014/09/29/ajax-calls</id>
             <content type="html"><![CDATA[<p>As a PHP disciple I was really afraid of JS intends to cooperate with data from Server.
 I always tried to separate and be clear about the differences in the gap between server-side and client-side. I’ve always seen JS as a nice complement to the well-known dynamic fluency web content rather than content manage around the controller, there is where our new friend comes out: AJAX.</p>
 
@@ -491,9 +491,9 @@ $(document).ready(function()
         </entry>
             <entry>
             <title type="html"><![CDATA[Hello World !]]></title>
-            <link href="http://marcossegovia.github.io/blog/2014/09/20/hello-world"/>
+            <link href="http://www.marcossegovia.com/blog/2014/09/20/hello-world"/>
             <updated>2014-09-20T00:00:00+00:00</updated>
-            <id>http://marcossegovia.github.io/blog/2014/09/20/hello-world</id>
+            <id>http://www.marcossegovia.com/blog/2014/09/20/hello-world</id>
             <content type="html"><![CDATA[<p>As the first post, I’m glad to present to you my very first personal webpage.</p>
 
 <p>The point in all this blogsite is about exposing my personal training as a programmer due to my adquired knowledge from reading, comparing, speaking with people or just by listening from profesionals on the matters.</p>
@@ -503,5 +503,12 @@ What I’ve found useful or not, what I’m pleased to remark and recommend and,
 
 <p>From here on we’ve got the perfect place to talk.</p>
 ]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[]]></title>
+            <link href="http://www.marcossegovia.com/_posts/2015-09-12-solid-principles"/>
+            <updated>2015-09-12T00:00:00+00:00</updated>
+            <id>http://www.marcossegovia.com/_posts/2015-09-12-solid-principles</id>
+            <content type="html"><![CDATA[]]></content>
         </entry>
     </feed>
