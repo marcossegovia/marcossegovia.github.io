@@ -3,7 +3,7 @@
     <title><![CDATA[Software Development]]></title>
     <link href="http://www.marcossegovia.com/atom.xml" rel="self"/>
     <link href="http://www.marcossegovia.com/"/>
-    <updated>2015-10-09T00:20:37+00:00</updated>
+    <updated>2016-01-17T13:46:26+00:00</updated>
     <id>http://www.marcossegovia.com/</id>
             <author>
             <name><![CDATA[Marcos Segovia]]></name>                    </author>
@@ -503,12 +503,5 @@ What I’ve found useful or not, what I’m pleased to remark and recommend and,
 
 <p>From here on we’ve got the perfect place to talk.</p>
 ]]></content>
-        </entry>
-            <entry>
-            <title type="html"><![CDATA[]]></title>
-            <link href="http://www.marcossegovia.com/_posts/2015-09-12-solid-principles"/>
-            <updated>2015-09-12T00:00:00+00:00</updated>
-            <id>http://www.marcossegovia.com/_posts/2015-09-12-solid-principles</id>
-            <content type="html"><![CDATA[]]></content>
         </entry>
     </feed>
