@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://marcossegovia.com/categories/</loc>
+    <loc>https://marcossegovia.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://marcossegovia.com/</loc>
+    <loc>https://marcossegovia.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://marcossegovia.com/tags/</loc>
+    <loc>https://marcossegovia.com/tags/</loc>
     <priority>0</priority>
   </url>
   
