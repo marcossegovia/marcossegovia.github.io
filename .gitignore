@@ -8,6 +8,7 @@
 # Hugo generated files
 resources/_gen/
 .hugo_build.lock
+public/
 
 # OS generated files
 .DS_Store
