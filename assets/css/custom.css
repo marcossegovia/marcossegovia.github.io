@@ -1,0 +1,48 @@
+/* Custom styles for the site */
+
+.customEntityLogo {
+    background-color: aliceblue;
+    position: relative;
+    min-width: 45px;
+    width: 45px;
+    height: 45px;
+    margin: 0px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 2px;
+    object-fit: contain;
+    border-radius: 4%;
+    display: block;
+}
+
+/* Table alignment fixes */
+table td {
+    text-align: left;
+    vertical-align: middle;
+    padding: 8px 12px;
+}
+
+table td:has(img) {
+    padding-left: 0px !important;
+}
+
+table tr {
+    height: auto;
+    min-height: 60px;
+}
+
+/* Responsive sizing for different screen widths */
+@media (min-width: 768px) {
+    .customEntityLogo {
+        width: 55px;
+        height: 55px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .customEntityLogo {
+        width: 65px;
+        height: 65px;
+    }
+}

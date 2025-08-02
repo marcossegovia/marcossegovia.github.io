@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "msegoviafernandez"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Marcos Segovia"
+  email = "hello@marcossegovia.me"
+  image = "/img/marcossegovia.jpg"
+  headline = "Senior Software Engineer in 🇨🇭aus 🇪🇸"
+  bio = "Passionate about building scalable solutions and exploring new technologies"
+  links = [
+    { email = "mailto:hello@marcossegovia.me" },
+    { github = "https://github.com/marcossegovia" },
+    { linkedin = "https://linkedin.com/in/marcossegovia" },
+  ]
