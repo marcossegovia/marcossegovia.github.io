@@ -11,6 +11,9 @@ links:
   - name: "Email"
     icon: "email"
     url: "mailto:hello@marcossegovia.me"
+  - name: "Buy Me a Coffee"
+    icon: "buymeacoffee"
+    url: "https://buymeacoffee.com/msegoviadev"
 ---
 
 # Hello, I'm Marcos! 👋

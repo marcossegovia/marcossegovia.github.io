@@ -34,3 +34,6 @@ logs/
 # Temporary files
 tmp/
 temp/
+
+# Tweet drafts and history (local only)
+tweets/
