@@ -1,6 +1,6 @@
 ---
 title: "Marcos Segovia"
-image: "/img/marcossegovia.jpg"
+image: "img/marcossegovia_glitch.gif"
 links:
   - name: "GitHub"
     icon: "github"

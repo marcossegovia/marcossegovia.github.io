@@ -5,6 +5,8 @@ description: "Unified documentation platform for REST, AsyncAPI, and other API p
 tags: ['nextjs', 'typescript', 'api', 'documentation', 'openapi', 'asyncapi']
 draft: false
 showTableOfContents: false
+showHero: true
+heroStyle: "background"
 featuredImage: "/img/projects/open-spec-hub.png"
 ---
 

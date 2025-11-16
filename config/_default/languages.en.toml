@@ -17,7 +17,7 @@ title = "msegoviafernandez"
 [params.author]
   name = "Marcos Segovia"
   email = "hello@marcossegovia.me"
-  image = "/img/marcossegovia.jpg"
+  image = "img/marcossegovia_glitch.gif"
   headline = "Senior Software Engineer in 🇨🇭aus 🇪🇸"
   bio = "Passionate about building scalable solutions and exploring new technologies"
   links = [
