@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-description: "Writing about software engineering, building products, and lessons learned along the way"
+description: "Real stories about building software, what worked, what didn't, and why"
 ---
 
-I write about the problems I solve, the tools I build, and what I learn while building software. Most posts are technical deep dives into projects, or developer experience improvements.
+I write about the stuff I build, the problems I run into, and what I learn along the way. Mostly technical posts about projects, tools, and trying to make development exciting.
 
-Expect honest opinions of what worked, what didn't, and why. No fluff, just my journey.
+Lessons learned, mistakes included.

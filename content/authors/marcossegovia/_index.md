@@ -2,6 +2,9 @@
 title: "Marcos Segovia"
 image: "img/marcossegovia_glitch.gif"
 links:
+  - name: "X"
+    icon: "x-twitter"
+    url: "https://x.com/msegoviadev"
   - name: "GitHub"
     icon: "github"
     url: "https://github.com/marcossegovia"
@@ -16,20 +19,26 @@ links:
     url: "https://buymeacoffee.com/msegoviadev"
 ---
 
-# Hello, I'm Marcos! 👋
+# Hey, I'm Marcos! 👋
 
-I'm a **Software Engineer** passionate about building innovative solutions and exploring cutting-edge technologies. With a strong foundation in full-stack development and a keen eye for detail, I love turning complex problems into elegant, efficient code.
+I'm a software engineer who builds software for a living and somehow still enjoys it. Living in Switzerland but bound to Spain, writing code that (hopefully) has some meaning in life.
 
-## What I'm About
+## What I Do
 
-- 🚀 Building scalable web applications and backend systems
-- 💡 Solving challenging technical problems with creative solutions  
-- 📚 Continuously learning and staying current with emerging technologies
-- 🤝 Collaborating with teams to deliver high-quality software
-- 🌱 Contributing to open-source projects and the developer community
+I build web applications and backend systems, mostly focusing on:
+- Backend engineering, plus frontend that's good enough (thank you, AI)
+- Scalable backend architectures
+- Developer tools and automation
+- Using AI for everything I can get away with
 
-## Current Focus
+## The Honest Bits
 
-I'm currently working on projects involving modern web technologies, cloud architecture, and developer productivity tools. Always excited to discuss new ideas, share knowledge, and connect with fellow technology enthusiasts.
+- I believe good code should be readable by humans first, computers second
+- Simplicity beats complexity every single time
+- Coffee is essential (check my bio)
+- Still learning something new every day (the tech world moves fast)
+- Not replaced by AI yet
 
-**Let's build something amazing together!**
+## Let's Connect
+
+Working on something interesting? Want to talk tech? Drop me a line. Always happy to chat about code, share knowledge, or grab a virtual coffee.

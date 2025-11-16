@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "msegoviafernandez"
+title = "msegoviadev"
 
 [params]
   displayName = "EN"
@@ -15,13 +15,14 @@ title = "msegoviafernandez"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Marcos Segovia"
+  name = "msegoviadev"
   email = "hello@marcossegovia.me"
   image = "img/marcossegovia_glitch.gif"
   headline = "Senior Software Engineer in 🇨🇭aus 🇪🇸"
-  bio = "Passionate about building scalable solutions and exploring new technologies"
+  bio = "Code enthusiast building web apps and backend systems. Not replaced by AI (yet). Fueled by curiosity and good coffee."
   links = [
     { email = "mailto:hello@marcossegovia.me" },
+    { x-twitter = "https://x.com/msegoviadev" },
     { github = "https://github.com/marcossegovia" },
     { linkedin = "https://linkedin.com/in/marcossegovia" },
   ]

@@ -7,6 +7,6 @@ cascade:
   showWordCount: false
 ---
 
-I build things that solve problems I've encountered or ideas I wanted to explore. Developer tools, SaaS experiments, proof of concepts. Some are open-source, some are just for learning.
+I build stuff that solves problems I've actually run into, or just scratches a curiosity itch.
 
-Each project is a deep dive into a specific problem space. Some are production-ready, others are experiments. All of them fill a purpose and teach something worth sharing.
+Developer tools, SaaS experiments, weekend projects. Some make it to production, some are just learning exercises (and that's fine).
