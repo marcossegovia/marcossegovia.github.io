@@ -1,6 +1,10 @@
 ---
 title: "Projects"
 description: "Open-source tools, SaaS experiments, and solutions built to solve real problems"
+cascade:
+  showDate: false
+  showReadingTime: false
+  showWordCount: false
 ---
 
 I build things that solve problems I've encountered or ideas I wanted to explore. Developer tools, SaaS experiments, proof of concepts. Some are open-source, some are just for learning.

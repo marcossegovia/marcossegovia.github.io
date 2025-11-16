@@ -8,6 +8,9 @@ showTableOfContents: false
 showHero: true
 heroStyle: "background"
 featuredImage: "/img/projects/open-spec-hub.png"
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 A unified documentation platform that brings REST, AsyncAPI, and other API protocols together in a single interface. Drop your spec files in a folder, run one command, get a complete API documentation hub.
