@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2025-08-02T12:43:35+02:00
-description: "Learn more about Marcos Segovia - Senior Software Engineer, Technology Enthusiast, and Problem Solver"
+description: "Software engineer from Spain, living in Switzerland, building things that solve real problems"
 
 showDate: false
 showAuthor: false
@@ -18,21 +18,18 @@ layout: "simple"
 showTitle: false
 ---
 
-# Hello, I'm Marcos! 👋
+# Hi, I'm Marcos! 👋
 
-I'm a **Senior Software Engineer** who loves solving everyday problems with technology. 
+I'm a software engineer from Spain, living in Switzerland. I build web applications, backend systems, and products that solve real problems.
 
-I have a background as a backend developer and in DevOps, and I am currently exploring how to integrate AI into my workflow. I am particularly excited about tackling tough challenges and finding the best technological solutions to address them.
+I've been coding professionally for years, focusing on backend development and DevOps. I'm interested in modern web technologies to make developer workflows and environments more automated and efficient. I'm passionate about embracing the revolutionary potential of AI to build these automated tools, enabling faster product delivery, while also experimenting with new SaaS platforms and developer experience tools.
 
-## What I'm About
+## What I build
 
-- 🚀 Building scalable web applications and backend systems
-- 💡 Solving challenging technical problems with creative solutions
-- 📚 Continuously learning and staying current with emerging technologies
-- 🤝 Collaborating with teams to deliver high-quality software
+My projects include open-source tools from personal frustrations, SaaS experiments, and proof-of-concepts. 
 
-## Current Focus
+## This site
 
-I'm currently working on projects involving modern web technologies, cloud architecture, and developer productivity tools. Always excited to discuss new ideas, share knowledge, and connect with fellow technology enthusiasts.
+Here, I share my projects, technical insights, and lessons learned. You'll find honest stories of what worked and what didn't.
 
-**Let's build something amazing together!**
+Want to discuss a project or connect? Email me at [hello@marcossegovia.me](mailto:hello@marcossegovia.me) or find me on [GitHub](https://github.com/marcossegovia) and [LinkedIn](https://linkedin.com/in/marcossegovia).
