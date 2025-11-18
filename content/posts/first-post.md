@@ -5,7 +5,7 @@ title = 'Welcome to My Blog'
 description = 'Introduction to my blog and what you can expect to find here'
 tags = ['welcome', 'introduction']
 categories = ['general']
-authors = ['marcossegovia']
+authors = ['msegoviadev']
 +++
 
 Welcome to my blog! I'm excited to share my thoughts and experiences in software development, technology, and my professional journey.
@@ -29,12 +29,12 @@ I recently discovered Claude code, Anthropic's AI assistant, and I've been absol
 
 One of my first pet projects with Claude was migrating my old Hugo personal website to this completely new website powered by Hugo and the Blowfish theme. What would have traditionally taken me several days to plan, implement, and polish took just a couple of hours with Claude's assistance. The ability to leverage specialized agents for different aspects of the project - from frontend development to content creation - was incredibly impressive.
 
-I've even started creating my own custom Claude agents for this project, which you can find in the [.claude/agents directory](https://github.com/marcossegovia/marcossegovia.github.io/tree/master/.claude/agents) of this website's repository. These agents help automate specific tasks and provide specialized assistance for different aspects of development.
+I've even started creating my own custom Claude agents for this project, which you can find in the [.claude/agents directory](https://github.com/msegoviadev/msegoviadev.github.io/tree/master/.claude/agents) of this website's repository. These agents help automate specific tasks and provide specialized assistance for different aspects of development.
 
-Building on this momentum, I've created another project focused on developer productivity: [claude-developer-utilities](https://github.com/marcossegovia/claude-developer-utilities). This repository contains:
+Building on this momentum, I've created another project focused on developer productivity: [claude-developer-utilities](https://github.com/msegoviadev/claude-developer-utilities). This repository contains:
 
-- **Custom commands** for automating common development tasks ([commands directory](https://github.com/marcossegovia/claude-developer-utilities/tree/main/.claude/commands))
-- **Specialized agents** for various development workflows ([agents directory](https://github.com/marcossegovia/claude-developer-utilities/tree/main/.claude/agents))
+- **Custom commands** for automating common development tasks ([commands directory](https://github.com/msegoviadev/claude-developer-utilities/tree/main/.claude/commands))
+- **Specialized agents** for various development workflows ([agents directory](https://github.com/msegoviadev/claude-developer-utilities/tree/main/.claude/agents))
 
 The goal is to create a comprehensive toolkit that enhances developer productivity through AI assistance while maintaining the human oversight that's crucial for quality software development.
 

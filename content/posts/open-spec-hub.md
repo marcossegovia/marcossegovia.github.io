@@ -5,7 +5,7 @@ title = 'Open Spec Hub: One Documentation Hub for All Your APIs'
 description = 'Building a unified documentation platform that brings REST, AsyncAPI, and other API protocols together in a single, elegant interface'
 tags = ['api', 'documentation', 'open-source', 'nextjs', 'asyncapi', 'openapi']
 categories = ['projects']
-authors = ['marcossegovia']
+authors = ['msegoviadev']
 +++
 
 I've watched teams struggle with the same problem for years. You have your REST API documented in Swagger UI. Your event-driven architecture lives in some AsyncAPI viewer. Maybe there's a GraphQL playground somewhere. Each protocol has its own tools, its own vocabulary, its own way of showing examples. Developers end up with five browser tabs open just to understand how your platform works.
@@ -42,7 +42,7 @@ Adding support for new protocols is straightforward: write a parser, write a nor
 
 ## Try It Out
 
-You can explore the [live demo](https://msegovia.dev/open-spec-hub/demo/) to see how it handles both REST APIs and event streams. The [landing page](https://msegovia.dev/open-spec-hub/) explains the concept, and the full [source code is on GitHub](https://github.com/marcossegovia/open-spec-hub) under MIT license.
+You can explore the [live demo](https://msegovia.dev/open-spec-hub/demo/) to see how it handles both REST APIs and event streams. The [landing page](https://msegovia.dev/open-spec-hub/) explains the concept, and the full [source code is on GitHub](https://github.com/msegoviadev/open-spec-hub) under MIT license.
 
 Getting started is simple: clone the repo, drop your OpenAPI and AsyncAPI specs into the `specs/` directory, and run `npm run dev`. Your unified documentation hub will be running on localhost. If you want to add support for GraphQL, gRPC, or other protocols, contributions are very welcome—the architecture is built for extensibility.
 

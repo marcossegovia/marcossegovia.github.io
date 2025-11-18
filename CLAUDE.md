@@ -26,7 +26,7 @@ This is a personal website for Marcos Segovia (msegovia.dev) built with Hugo and
   - `module.toml` - Hugo module configuration for the theme
 - `content/` - All site content in Markdown format:
   - `_index.md` - Homepage content
-  - `authors/marcossegovia/_index.md` - Author profile with social links
+  - `authors/msegoviadev/_index.md` - Author profile with social links
 - `themes/blowfish/` - Theme files (installed as git submodule, do not edit directly)
 - `static/` - Static assets served directly
 - `public/` - Generated site output (ignored in git)
@@ -86,7 +86,7 @@ Use this agent for:
 ## Content Management
 
 ### Author Profile
-The main author profile is in `content/authors/marcossegovia/_index.md` and `config/_default/languages.en.toml`. Update both locations to maintain consistency:
+The main author profile is in `content/authors/msegoviadev/_index.md` and `config/_default/languages.en.toml`. Update both locations to maintain consistency:
 - Personal bio and headline
 - Social media links (GitHub, LinkedIn, email)
 - Profile image reference

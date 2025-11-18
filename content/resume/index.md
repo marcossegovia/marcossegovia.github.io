@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 description: "Professional experience and education of Marcos Segovia - Software Engineer"
-authors: [ "marcossegovia" ]
+authors: [ "msegoviadev" ]
 date: 2025-08-02
 
 showDate: false

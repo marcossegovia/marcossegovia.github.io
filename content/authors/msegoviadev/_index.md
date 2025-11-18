@@ -1,13 +1,13 @@
 ---
 title: "Marcos Segovia"
-image: "img/marcossegovia_glitch.gif"
+image: "img/msegoviadev_glitch.gif"
 links:
   - name: "X"
     icon: "x-twitter"
     url: "https://x.com/msegoviadev"
   - name: "GitHub"
     icon: "github"
-    url: "https://github.com/marcossegovia"
+    url: "https://github.com/msegoviadev"
   - name: "LinkedIn"
     icon: "linkedin"
     url: "https://www.linkedin.com/in/msegoviadev"

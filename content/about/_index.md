@@ -44,4 +44,4 @@ Here, I share my projects, technical insights, and lessons learned. You'll find 
 
 ## Let's Connect
 
-Working on something interesting? Want to talk tech? Drop me a line at [hello@msegovia.dev](mailto:hello@msegovia.dev) or find me on [GitHub](https://github.com/marcossegovia) and [LinkedIn](https://www.linkedin.com/in/msegoviadev). Always happy to chat about code, share knowledge, or grab a virtual coffee.
+Working on something interesting? Want to talk tech? Drop me a line at [hello@msegovia.dev](mailto:hello@msegovia.dev) or find me on [GitHub](https://github.com/msegoviadev) and [LinkedIn](https://www.linkedin.com/in/msegoviadev). Always happy to chat about code, share knowledge, or grab a virtual coffee.
