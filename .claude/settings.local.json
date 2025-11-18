@@ -31,7 +31,7 @@
       "WebFetch(domain:n9o.xyz)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
-      "WebFetch(domain:marcossegovia.me)",
+      "WebFetch(domain:msegovia.dev)",
       "Bash(fd -t d . content/)"
     ],
     "deny": []

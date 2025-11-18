@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a personal website for Marcos Segovia (marcossegovia.me) built with Hugo and the Blowfish theme. The site features a modern, responsive design with dark/light mode support and is optimized for personal branding and professional presentation.
+This is a personal website for Marcos Segovia (msegovia.dev) built with Hugo and the Blowfish theme. The site features a modern, responsive design with dark/light mode support and is optimized for personal branding and professional presentation.
 
 ## Architecture
 
@@ -98,7 +98,7 @@ The main author profile is in `content/authors/marcossegovia/_index.md` and `con
 
 ## Deployment
 
-The site deploys to GitHub Pages using the custom domain marcossegovia.me (configured in CNAME file). After making changes:
+The site deploys to GitHub Pages using the custom domain msegovia.dev (configured in CNAME file). After making changes:
 1. Test locally with `hugo server --buildDrafts`
 2. Build with `hugo` to ensure no errors
 3. Commit and push to master branch

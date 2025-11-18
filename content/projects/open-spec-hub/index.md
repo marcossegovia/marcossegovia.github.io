@@ -21,7 +21,7 @@ A unified documentation platform that brings REST, AsyncAPI, and other API proto
 
 ## Links
 
-- [Live Demo](https://marcossegovia.me/open-spec-hub/demo/)
-- [Landing Page](https://marcossegovia.me/open-spec-hub/)
+- [Live Demo](https://msegovia.dev/open-spec-hub/demo/)
+- [Landing Page](https://msegovia.dev/open-spec-hub/)
 - [GitHub](https://github.com/marcossegovia/open-spec-hub)
 - [Read the full story](/posts/open-spec-hub/)

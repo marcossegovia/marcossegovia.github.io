@@ -42,7 +42,7 @@ Adding support for new protocols is straightforward: write a parser, write a nor
 
 ## Try It Out
 
-You can explore the [live demo](https://marcossegovia.me/open-spec-hub/demo/) to see how it handles both REST APIs and event streams. The [landing page](https://marcossegovia.me/open-spec-hub/) explains the concept, and the full [source code is on GitHub](https://github.com/marcossegovia/open-spec-hub) under MIT license.
+You can explore the [live demo](https://msegovia.dev/open-spec-hub/demo/) to see how it handles both REST APIs and event streams. The [landing page](https://msegovia.dev/open-spec-hub/) explains the concept, and the full [source code is on GitHub](https://github.com/marcossegovia/open-spec-hub) under MIT license.
 
 Getting started is simple: clone the repo, drop your OpenAPI and AsyncAPI specs into the `specs/` directory, and run `npm run dev`. Your unified documentation hub will be running on localhost. If you want to add support for GraphQL, gRPC, or other protocols, contributions are very welcome—the architecture is built for extensibility.
 
